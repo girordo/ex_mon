@@ -1,10 +1,10 @@
-use Mix.Config
+import Config
 
 # Configure your database
 config :ex_mon, ExMon.Repo,
   username: "postgres",
-  password: "postgres",
-  database: "ex_mon_dev",
+  password: "docker",
+  database: "postgres",
   hostname: "localhost",
   show_sensitive_data_on_connection_error: true,
   pool_size: 10
