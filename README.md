@@ -1,19 +1,22 @@
 # ExMon
 
-To start your Phoenix server:
+## Description
 
-  * Install dependencies with `mix deps.get`
-  * Create and migrate your database with `mix ecto.setup`
-  * Start Phoenix endpoint with `mix phx.server`
+This is a project for educational purposes.
+In this project I'm learning about:
 
-Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
+- How to setup a Elixir project using Mix
+- How to setup a Phoenix project using Mix
+- Data structures and behavior from Elixir as language
+- How to setup a Dockerfile and a docker-compose yml for a Elixir and Phoenix
+  project
 
-Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
+## License
 
-## Learn more
+This project is [MIT licensed](LICENSE).
 
-  * Official website: https://www.phoenixframework.org/
-  * Guides: https://hexdocs.pm/phoenix/overview.html
-  * Docs: https://hexdocs.pm/phoenix
-  * Forum: https://elixirforum.com/c/phoenix-forum
-  * Source: https://github.com/phoenixframework/phoenix
+---
+
+<div align="center">
+  <sub>Made with 💜 by <a href="https://github.com/girordo">Tarcísio Giroldo</a></sub>
+</div>
