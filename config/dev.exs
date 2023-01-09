@@ -3,7 +3,7 @@ import Config
 # Configure your database
 config :ex_mon, ExMon.Repo,
   username: "postgres",
-  password: "docker",
+  password: "postgres",
   database: "postgres",
   hostname: "localhost",
   show_sensitive_data_on_connection_error: true,
