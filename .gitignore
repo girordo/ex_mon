@@ -29,6 +29,3 @@ ex_mon-*.tar
 
 #elixir_ls
 .elixir_ls/
-
-#http
-*.http
