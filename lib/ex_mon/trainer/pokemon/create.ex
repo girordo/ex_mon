@@ -26,7 +26,7 @@ defmodule ExMon.Trainer.Pokemon.Create do
       name: name,
       weight: weight,
       types: types,
-      nickanme: nickname,
+      nickname: nickname,
       trainer_id: trainer_id
     }
 
